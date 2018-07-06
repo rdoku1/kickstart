@@ -29,9 +29,12 @@ render() {
   return (
 
       <div>
+
+       <link rel="stylesheet"
+       href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css"></link>
+
+      />
         <h3>Open Campaigns</h3>
-
-
           <a>
             <Button
               floated="right"
